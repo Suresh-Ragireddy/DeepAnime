@@ -1,5 +1,6 @@
-numpy
-matplotlib
-scipy
-pandas
-jupyter
+torch>=1.7.0
+torchvision>=0.8.1
+matplotlib>=3.2.2
+numpy>=1.18.5
+opendatasets>=0.1.20
+
